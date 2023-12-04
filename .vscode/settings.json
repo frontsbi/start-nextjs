@@ -1,0 +1,10 @@
+{
+  "scss.validate": false,
+  "stylelint.validate": ["scss"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true
+  },
+  "eslint.format.enable": true,
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+}
